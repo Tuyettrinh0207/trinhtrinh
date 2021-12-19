@@ -1,0 +1,16 @@
+.vien{
+    border-top: 2px solid #32251D;
+    color:#32251D ;
+    font-size: 18px;
+    
+}
+.viena{
+    letter-spacing: 8px;
+    font-size: 30px; 
+    padding-bottom: 10px;
+    display: inline-block; 
+    border-bottom: 5px solid #af8070;
+}
+.viena:hover{
+    color: #A8B36F;
+}
